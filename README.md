@@ -132,13 +132,6 @@ VALUES
 
 ---
 
-📹 Démonstration vidéo
-
-La vidéo complète du projet doit être envoyée à :
-
-📧 **[assane.gueye.edu@gmail.com](mailto:assane.gueye.edu@gmail.com)**
-
-Format recommandé : MP4, moins de 100 Mo.
 
 
 
