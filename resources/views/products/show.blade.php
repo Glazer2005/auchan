@@ -21,7 +21,7 @@
         </div>
 
         <div class="card-footer d-flex justify-content-between">
-            <a href="{{ route('products.index') }}" class="btn btn-secondary">Retour</a>
+            <a href="{{ route('dashboard') }}" class="btn btn-secondary">Retour</a>
 
             <div>
                 <a href="{{ route('products.edit', $product->id) }}" class="btn btn-primary">Modifier</a>

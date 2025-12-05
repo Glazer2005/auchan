@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.pagination .page-link:hover {
+    background-color: #B0001F !important;
+    color: #fff !important;
+}
+.pagination .page-item.active .page-link {
+    background-color: #E60028 !important;
+    border-color: #E60028 !important;
+}
