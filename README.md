@@ -150,13 +150,13 @@ Middleware de sécurité
 
 📝 Exemple de captures d’écran
 
-(À compléter avec vos images dans le dossier README)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.30.08.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.30.30.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.31.04.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.31.29.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.31.55.png>)
 
-🎥 Vidéo de démonstration
-
-À envoyer à : assane.gueye.edu@gmail.com
 
 ✔️ Statut du projet
 
 🟢 Projet fonctionnel, complet et améliorable.
-Tous les nouveaux ajouts (pagination, filtrage, upload, sidebar, catégories supplémentaires, fixes SQL) ont été intégrés dans cette version du README.
