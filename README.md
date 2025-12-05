@@ -150,13 +150,11 @@ Middleware de sécurité
 
 📝 Exemple de captures d’écran
 
-![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.30.08.png>)
-![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.30.30.png>)
-![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.31.04.png>)
-![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.31.29.png>)
-![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 02.31.55.png>)
-
-
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 03.02.30.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 03.02.37.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 03.03.40.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 03.03.49.png>)
+![alt text](<New Folder With Items/Screen Shot 2025-12-05 at 03.04.32.png>)
 ✔️ Statut du projet
 
 🟢 Projet fonctionnel, complet et améliorable.
