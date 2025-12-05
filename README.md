@@ -159,4 +159,3 @@ Middleware de sécurité
 ✔️ Statut du projet
 
 🟢 Projet fonctionnel, complet et améliorable.
-Tous les nouveaux ajouts (pagination, filtrage, upload, sidebar, catégories supplémentaires, fixes SQL) ont été intégrés dans cette version du README.
